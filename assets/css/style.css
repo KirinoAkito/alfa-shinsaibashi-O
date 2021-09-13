@@ -200,7 +200,8 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  fill: #19448e
+;
   width: 12px;
   height: 24px;
 }
@@ -291,7 +292,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+  background-color: #2ca9e1;
 }
 
 .section-title--keycolorlight .section-title__stage {
